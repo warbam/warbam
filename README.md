@@ -1,4 +1,4 @@
-<div align="center">I'm Eliott, a training full-stack developer 👨‍💻 learning at 42 Lyon since 2019 🚀</div>  
+<div align="center">I'm Eliott Depauw, a training full-stack developer 👨‍💻 learning at 42 Lyon since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [Matcha](https://github.com/warbam/Matcha)  
