@@ -1,10 +1,8 @@
-<div align="center">I'm Eliott Depauw, a training full-stack developer 👨‍💻 learning at 42 Lyon since 2019 🚀</div>  
+<div align="center">I'm Eliott Depauw, a full-stack developer 👨‍💻 alumni of 42 school Lyon with 3 years of experience in web developpement</div>  
   
 
-- 🔭 I’m currently working on [Matcha](https://github.com/warbam/Matcha)  
+- 🔭 I’m currently searching for freelance jobs
   
-
-- 🌱 I’m currently learning node.js  
   
 
 <br/>  
